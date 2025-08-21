@@ -22,16 +22,16 @@
     </td>
     <!-- Widgets -->
     <td rowspan="2" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HectorH06&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RemiH06&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs"/>
       <!-- img -->
       <br>
       <br>
       <!-- <img src="https://github-readme-stats.vercel.app/api?username=HectorH06&rank_icon=percentile&theme=radical" alt="Hector's GitHub stats"/> -->
       <p>🧮 Recent projects:</p>
-      <a href="https://github.com/HectorH06/Mapo" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=HectorH06&repo=mapo&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Repo"/>
-      <a href="https://github.com/HectorH06/QScheduler" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=HectorH06&repo=qscheduler&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Repo"/>
+      <a href="https://github.com/RemiH06/Mapo" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=RemiH06&repo=mapo&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Repo"/>
+      <a href="https://github.com/RemiH06/QScheduler" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=RemiH06&repo=qscheduler&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Repo"/>
       </a>
       </a>
     </td>
