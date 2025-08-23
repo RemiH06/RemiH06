@@ -6,9 +6,10 @@
     <td valign="top">
       <h3>🔭 What I'm working on:</h3>
       <ul>
-        <li>Currently working at <strong>IntouchCX</strong></li>
+        <li>Currently working as BI Analyst at<strong>IntouchCX</strong></li>
         <li>Developing <strong>Ryoko</strong></li>
         <li>Developing <strong>Mapo</strong></li>
+        <li>Developing <strong>Tacology</strong></li>
       </ul>
     </td>
     <!-- Learnin -->
