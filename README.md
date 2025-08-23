@@ -19,6 +19,7 @@
         <li>Machine Learning</li>
         <li>Forecasting Methods</li>
         <li>UX/UI Design</li>
+        <li>Chinese</li>
       </ul>
     </td>
     <!-- Widgets -->
@@ -44,8 +45,8 @@
     <td valign="top">
       <h3>⛓️ Looking to collaborate on:</h3>
       <ul>
-        <li>Frontend Development</li>
-        <li>UX/UI Design</li>
+        <li>Frontend</li>
+        <li>NoSQL</li>
       </ul>
       <h3>💬 Ask me about:</h3>
       <ul>
