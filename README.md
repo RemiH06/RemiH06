@@ -96,7 +96,7 @@
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=Playwright&logoColor=white)
     </td>
         <td valign="top">
-      <h3>Langs</h3>
+      <h3>Tools</h3>
 
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
