@@ -72,7 +72,7 @@
       </p>
       <h3>😄 Pronouns:</h3>
       <ul>
-        <li>He/She/They</li>
+        <li>They/She/He</li>
       </ul>
     </td>
   </tr>
