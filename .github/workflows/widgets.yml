@@ -1,0 +1,51 @@
+name: widgets
+
+# Cada día, al cambiar main o a mano: genera los SVG y los publica en la
+# rama `widgets`, un solo commit que se reescribe. Si nada cambió, no hay commit.
+on:
+  schedule:
+    - cron: '23 6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: widgets
+
+jobs:
+  widgets:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: RemiH06/ReadMyWidgets@v1
+        with:
+          pinned: ${{ github.repository_owner }}
+          status: |
+            mapoDoufu:activo
+            tanGo:activo
+            LinNeo:pausa
+            Ryoko:pausa
+            Sulfur:concluido
+            Ariadne:concluido
+          stack: stack.json
+          layout: compact
+          out: widgets
+          base: https://raw.githubusercontent.com/${{ github.repository }}/widgets
+
+      - name: Publicar en la rama widgets
+        working-directory: widgets
+        run: |
+          git init -q -b widgets
+          git add .
+          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" commit -qm "widgets: $(date -u +%F)"
+          remote="https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git"
+          # Mismo árbol que lo ya publicado: no hay nada que empujar.
+          if git fetch -q --depth=1 "$remote" widgets && [ "$(git rev-parse HEAD^{tree})" = "$(git rev-parse FETCH_HEAD^{tree})" ]; then
+            echo "Sin cambios."
+            exit 0
+          fi
+          git push -qf "$remote" widgets

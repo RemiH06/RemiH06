@@ -1,0 +1,9 @@
+{
+  "Languages": ["Python", "Kotlin", "Elixir", "JavaScript", "TypeScript", "R", "SQL", "CQL (Cypher)", "HTML", "CSS"],
+  "Databases": ["PostgreSQL", "PostGIS", "MySQL", "SQLite", "Neo4j", "Snowflake", "SQLAlchemy"],
+  "Data & Viz": ["pandas", "NumPy", "SciPy", "statsmodels", "tidyverse", "NetworkX", "Matplotlib", "seaborn", "Plotly", "Streamlit"],
+  "Machine Learning": ["Scikit-learn", "XGBoost", "LightGBM", "CatBoost", "TensorFlow", "Keras", "PyTorch", "Hugging Face", "Ray RLlib", "Gymnasium", "YOLO", "OpenCV", "librosa", { "name": "Praat (parselmouth)", "icon": "praat" }],
+  "Web & Apps": ["React", "Next.js", "Vite", "Node.js", "FastAPI", "Pydantic", { "name": "Phoenix LiveView", "icon": "phoenix" }, { "name": "Tailwind", "icon": "tailwindcss" }, "D3", "Three.js", "Leaflet", "Jetpack Compose", "Selenium", "Playwright"],
+  "Pipelines & MLOps": [{ "name": "Kafka", "icon": "apachekafka" }, "Airflow", "Prefect", "MLflow", "Optuna", "Docker", "GitHub Actions"],
+  "Tools & Environments": ["Git", "VS Code", "Claude Code", "Android Studio", "Jupyter", "Quarto", "pytest", "Obsidian", { "name": "Debian (WSL)", "icon": "debian" }, "Jira"]
+}
