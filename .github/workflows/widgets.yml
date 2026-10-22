@@ -23,14 +23,10 @@ jobs:
 
       - uses: RemiH06/ReadMyWidgets@v1
         with:
-          pinned: ${{ github.repository_owner }}
-          status: |
-            mapoDoufu:activo
-            tanGo:activo
-            LinNeo:pausa
-            Ryoko:pausa
-            Sulfur:concluido
-            Ariadne:concluido
+          repos: |
+            RemiH06/RemsGlyphToys:concluido
+            RemiH06/RSNA-Knee-Abnormality-Detection:concluido
+            RemiH06/Fontificar:concluido
           stack: stack.json
           layout: compact
           out: widgets
