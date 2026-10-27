@@ -21,14 +21,18 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: RemiH06/ReadMyWidgets@v1
+      # @main mientras se prueba; volver a una etiqueta cuando salga la versión con colofón y matriz.
+      - uses: RemiH06/ReadMyWidgets@main
         with:
           repos: |
             RemiH06/RemsGlyphToys:concluido
             RemiH06/RSNA-Knee-Abnormality-Detection:concluido
             RemiH06/Fontificar:concluido
+          layout: row
           stack: stack.json
-          layout: compact
+          colofon: true
+          names: false
+          matrix: pulse
           out: widgets
           base: https://raw.githubusercontent.com/${{ github.repository }}/widgets
 
