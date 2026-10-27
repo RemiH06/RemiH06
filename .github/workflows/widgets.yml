@@ -27,7 +27,7 @@ jobs:
           repos: |
             RemiH06/RemsGlyphToys:concluido
             RemiH06/RSNA-Knee-Abnormality-Detection:concluido
-          layout: compact
+          layout: card
           stack: stack.json
           colofon: true
           names: false
