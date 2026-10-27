@@ -24,14 +24,13 @@
     <!-- Widgets -->
     <td rowspan="2" valign="top">
       <h3>🧮 Recent projects:</h3>
-      <a href="https://github.com/RemiH06/RemsGlyphToys"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RemiH06/RemiH06/widgets/card-RemsGlyphToys-dark.svg"><img src="https://raw.githubusercontent.com/RemiH06/RemiH06/widgets/card-RemsGlyphToys-light.svg" width="380" alt="Rem's Glyph Toys: Glyph Toys para la matriz de LEDs del Nothing Phone (3) (concluido)"></picture></a><br>
-      <a href="https://github.com/RemiH06/RSNA-Knee-Abnormality-Detection"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RemiH06/RemiH06/widgets/card-RSNA-Knee-Abnormality-Detection-dark.svg"><img src="https://raw.githubusercontent.com/RemiH06/RemiH06/widgets/card-RSNA-Knee-Abnormality-Detection-light.svg" width="380" alt="Knee Abnormality Detection: 12 hallazgos por resonancia de rodilla en Kaggle (concluido)"></picture></a><br>
-      <a href="https://github.com/RemiH06/Fontificar"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RemiH06/RemiH06/widgets/card-Fontificar-dark.svg"><img src="https://raw.githubusercontent.com/RemiH06/RemiH06/widgets/card-Fontificar-light.svg" width="380" alt="Fontificar: agrega ñ, acentos y símbolos faltantes a cualquier fuente TTF u OTF (concluido)"></picture></a>
+      <a href="https://github.com/RemiH06/RemsGlyphToys"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RemiH06/RemiH06/widgets/card-RemsGlyphToys-dark.svg"><img src="https://raw.githubusercontent.com/RemiH06/RemiH06/widgets/card-RemsGlyphToys-light.svg" width="400" alt="Rem's Glyph Toys: Glyph Toys para la matriz de LEDs del Nothing Phone (3) (concluido)"></picture></a><br>
+      <a href="https://github.com/RemiH06/RSNA-Knee-Abnormality-Detection"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RemiH06/RemiH06/widgets/card-RSNA-Knee-Abnormality-Detection-dark.svg"><img src="https://raw.githubusercontent.com/RemiH06/RemiH06/widgets/card-RSNA-Knee-Abnormality-Detection-light.svg" width="400" alt="Knee Abnormality Detection: 12 hallazgos por resonancia de rodilla en Kaggle (concluido)"></picture></a>
     </td>
   </tr>
   <tr>
     <!-- Contact -->
-    <td valign="top" colspan="2">
+    <td valign="top">
       <h3>📫 How to reach me:</h3>
       <p>
         <a href="https://remih06.github.io/Portfolio/" target="_blank">
@@ -45,22 +44,22 @@
         </a>
       </p>
     </td>
+    <!-- Glyph -->
+    <td valign="middle" align="center">
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RemiH06/RemiH06/widgets/matrix-fluid-dark.svg"><img src="https://raw.githubusercontent.com/RemiH06/RemiH06/widgets/matrix-fluid-light.svg" width="180" alt="Matriz Glyph de 489 LEDs: manchas de luz que derivan lentamente"></picture>
+    </td>
   </tr>
   <tr>
     <!-- Colofón -->
-    <td valign="top" colspan="2">
+    <td valign="top" colspan="3">
       <h3>🧰 Colophon</h3>
-      <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RemiH06/RemiH06/widgets/colofon-languages-dark.svg"><img src="https://raw.githubusercontent.com/RemiH06/RemiH06/widgets/colofon-languages-light.svg" width="380" alt="Languages: Python, Kotlin, Elixir, JavaScript, TypeScript, R, SQL, CQL (Cypher), HTML, CSS"></picture><br>
-      <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RemiH06/RemiH06/widgets/colofon-databases-dark.svg"><img src="https://raw.githubusercontent.com/RemiH06/RemiH06/widgets/colofon-databases-light.svg" width="380" alt="Databases: PostgreSQL, PostGIS, MySQL, SQLite, Neo4j, Snowflake, SQLAlchemy"></picture><br>
-      <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RemiH06/RemiH06/widgets/colofon-data-viz-dark.svg"><img src="https://raw.githubusercontent.com/RemiH06/RemiH06/widgets/colofon-data-viz-light.svg" width="380" alt="Data &amp; Viz: pandas, NumPy, SciPy, statsmodels, tidyverse, NetworkX, Matplotlib, seaborn, Plotly, Streamlit"></picture><br>
-      <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RemiH06/RemiH06/widgets/colofon-machine-learning-dark.svg"><img src="https://raw.githubusercontent.com/RemiH06/RemiH06/widgets/colofon-machine-learning-light.svg" width="380" alt="Machine Learning: Scikit-learn, XGBoost, LightGBM, CatBoost, TensorFlow, Keras, PyTorch, Hugging Face, Ray RLlib, Gymnasium, YOLO, OpenCV, librosa, Praat (parselmouth)"></picture><br>
-      <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RemiH06/RemiH06/widgets/colofon-web-apps-dark.svg"><img src="https://raw.githubusercontent.com/RemiH06/RemiH06/widgets/colofon-web-apps-light.svg" width="380" alt="Web &amp; Apps: React, Next.js, Vite, Node.js, FastAPI, Pydantic, Phoenix LiveView, Tailwind, D3, Three.js, Leaflet, Jetpack Compose, Selenium, Playwright"></picture><br>
-      <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RemiH06/RemiH06/widgets/colofon-pipelines-mlops-dark.svg"><img src="https://raw.githubusercontent.com/RemiH06/RemiH06/widgets/colofon-pipelines-mlops-light.svg" width="380" alt="Pipelines &amp; MLOps: Kafka, Airflow, Prefect, MLflow, Optuna, Docker, GitHub Actions"></picture><br>
-      <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RemiH06/RemiH06/widgets/colofon-tools-environments-dark.svg"><img src="https://raw.githubusercontent.com/RemiH06/RemiH06/widgets/colofon-tools-environments-light.svg" width="380" alt="Tools &amp; Environments: Git, VS Code, Claude Code, Android Studio, Jupyter, Quarto, pytest, Obsidian, Debian (WSL), Jira"></picture>
-    </td>
-    <!-- Glyph -->
-    <td valign="middle" align="center">
-      <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RemiH06/RemiH06/widgets/matrix-pulse-dark.svg"><img src="https://raw.githubusercontent.com/RemiH06/RemiH06/widgets/matrix-pulse-light.svg" width="380" alt="Matriz Glyph de 489 LEDs: una onda de luz que sale del centro"></picture>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RemiH06/RemiH06/widgets/colofon-languages-dark.svg"><img src="https://raw.githubusercontent.com/RemiH06/RemiH06/widgets/colofon-languages-light.svg" width="780" alt="Languages: Python, Kotlin, Elixir, JavaScript, TypeScript, R, SQL, CQL (Cypher), HTML, CSS"></picture><br>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RemiH06/RemiH06/widgets/colofon-databases-dark.svg"><img src="https://raw.githubusercontent.com/RemiH06/RemiH06/widgets/colofon-databases-light.svg" width="780" alt="Databases: PostgreSQL, PostGIS, MySQL, SQLite, Neo4j, Snowflake, SQLAlchemy"></picture><br>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RemiH06/RemiH06/widgets/colofon-data-viz-dark.svg"><img src="https://raw.githubusercontent.com/RemiH06/RemiH06/widgets/colofon-data-viz-light.svg" width="780" alt="Data &amp; Viz: pandas, NumPy, SciPy, statsmodels, tidyverse, NetworkX, Matplotlib, seaborn, Plotly, Streamlit"></picture><br>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RemiH06/RemiH06/widgets/colofon-machine-learning-dark.svg"><img src="https://raw.githubusercontent.com/RemiH06/RemiH06/widgets/colofon-machine-learning-light.svg" width="780" alt="Machine Learning: Scikit-learn, XGBoost, LightGBM, CatBoost, TensorFlow, Keras, PyTorch, Hugging Face, Ray RLlib, Gymnasium, YOLO, OpenCV, librosa, Praat (parselmouth)"></picture><br>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RemiH06/RemiH06/widgets/colofon-web-apps-dark.svg"><img src="https://raw.githubusercontent.com/RemiH06/RemiH06/widgets/colofon-web-apps-light.svg" width="780" alt="Web &amp; Apps: React, Next.js, Vite, Node.js, FastAPI, Pydantic, Phoenix LiveView, Tailwind, D3, Three.js, Leaflet, Jetpack Compose, Selenium, Playwright"></picture><br>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RemiH06/RemiH06/widgets/colofon-pipelines-mlops-dark.svg"><img src="https://raw.githubusercontent.com/RemiH06/RemiH06/widgets/colofon-pipelines-mlops-light.svg" width="780" alt="Pipelines &amp; MLOps: Kafka, Airflow, Prefect, MLflow, Optuna, Docker, GitHub Actions"></picture><br>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RemiH06/RemiH06/widgets/colofon-tools-environments-dark.svg"><img src="https://raw.githubusercontent.com/RemiH06/RemiH06/widgets/colofon-tools-environments-light.svg" width="780" alt="Tools &amp; Environments: Git, VS Code, Claude Code, Android Studio, Jupyter, Quarto, pytest, Obsidian, Debian (WSL), Jira"></picture>
     </td>
   </tr>
 </table>

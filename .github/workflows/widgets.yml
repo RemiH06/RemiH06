@@ -27,12 +27,12 @@ jobs:
           repos: |
             RemiH06/RemsGlyphToys:concluido
             RemiH06/RSNA-Knee-Abnormality-Detection:concluido
-            RemiH06/Fontificar:concluido
-          layout: row
+          layout: compact
           stack: stack.json
           colofon: true
           names: false
-          matrix: pulse
+          # fluid mientras ReadMyWidgets no tenga el modo de burbujas de RemsGlyphToys
+          matrix: fluid
           out: widgets
           base: https://raw.githubusercontent.com/${{ github.repository }}/widgets
 
